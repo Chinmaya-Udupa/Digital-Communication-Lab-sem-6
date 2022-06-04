@@ -1,0 +1,6 @@
+Lab 1 - Simulation of Baseband Communication
+Lab 2 - Bandlimited Channels and ISI (Intersymbol Interference)
+Lab 3 - Frame synchronization and Symbol timing recovery at baseband
+Lab 4 - Comparison between BASK and BPSK (lower bitrate passband modulation schemes)
+Lab 5 - Demodulation of a real world dataset(BASK Modulated), captured using RTL-SDR
+Lab 6 - Symbol error, bit error and constellation analysis of PSK, QAM & FSK
